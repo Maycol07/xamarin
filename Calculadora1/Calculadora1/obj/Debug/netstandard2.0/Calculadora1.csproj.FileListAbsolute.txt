@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.AssemblyInfo.cs
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.dll
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\refint\Calculadora1.dll
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\Calculadora1\Calculadora1\obj\Debug\netstandard2.0\Calculadora1.pdb

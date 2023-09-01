@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\bin\Debug\netstandard2.0\maik.deps.json
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\bin\Debug\netstandard2.0\maik.dll
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\bin\Debug\netstandard2.0\maik.pdb
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\maik.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\maik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\maik.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\maik.AssemblyInfo.cs
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\maik.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\maik.dll
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\refint\maik.dll
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\maik.pdb
+C:\Users\USUARIO\Dropbox\PC\Documents\XAMARIN\maik\maik\obj\Debug\netstandard2.0\ref\maik.dll
